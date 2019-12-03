@@ -36,6 +36,7 @@ exclude:
   - setup.sh
   - deploy.sh
   - build.sh
+  - serve.sh
   - check_site.sh
   - watch_site.sh
   - .gitignore
